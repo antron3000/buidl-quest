@@ -11,7 +11,7 @@ Hackathon teams work in silos. Many teams struggle with the exact same problems,
 
 ### How we will do it
 **Tokenization of Prize Winnings** - 
-We will create a platform that will let hackathon teams create a token that represents their prize winnings. Our team will create a token as well. Our team collects 1% of each token as a fee.
+We will create a platform that will let hackathon teams create a token that represents their prize winnings. Our team will create a token as well. Our team can collect 1% of each token as a fee, and gives away 1% of our token in return.
 
 **Simple Bounty Platform.** - 
 Hackathon teams can post bounties in their token, to help solve problems or perform general tasks. Any hackathon participant can perform these bounties. 
@@ -19,7 +19,6 @@ Hackathon teams can post bounties in their token, to help solve problems or perf
 Each team is free to decide how to allocate their token.
 
 At the end of the hackathon, teams will distribute their prizes to token holders as an honor based system. 
-
 
 
 
