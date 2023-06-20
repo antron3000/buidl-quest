@@ -11,7 +11,7 @@ Hackathon teams work in silos. Many teams struggle with the exact same problems,
 
 ### How we will do it
 **Tokenization of Prize Winnings** - 
-We will create a platform that will let hackathon teams create a token that represents their prize winnings. Our team included. 
+We will create a platform that will let hackathon teams create a token that represents their prize winnings. Our team will create a token as well. 
 
 **Simple Bounty Platform.** - 
 Hackathon teams can post bounties in their token, to help solve problems or perform general tasks. Any hackathon participant can perform these bounties. 
